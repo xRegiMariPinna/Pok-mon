@@ -1,0 +1,12 @@
+#titulo{
+font-family: 'Press Start 2P', cursive;
+}
+#fundo{
+    background-image: url(fundo.jpeg);
+    background-size: cover;
+}
+#myCanvas{
+    border-width: 10px;
+    border-style: ridge;
+    background: url(grama.png);
+}
